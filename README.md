@@ -1,4 +1,6 @@
 # Exam – DAI (SoSe 2024)
+
+The project is "Market Reaction to Regulatory Announcements during the Brexit Period 2016 - 2020".
  
 ## Setup Guide
 
