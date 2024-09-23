@@ -5,8 +5,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/project-name.git
-cd project-name
+git clone [https://github.com/your-repo/project-name.git](https://github.com/bhanuprasanna2001/Exam_DAI_SoSe_2024.git)
+cd Exam_DAI_SoSe_2024
 ```
 
 ### 2. Create and Activate the Environment
