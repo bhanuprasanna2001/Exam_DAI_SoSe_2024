@@ -5,7 +5,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-repo/project-name.git](https://github.com/bhanuprasanna2001/Exam_DAI_SoSe_2024.git)
+git clone https://github.com/bhanuprasanna2001/Exam_DAI_SoSe_2024.git
 cd Exam_DAI_SoSe_2024
 ```
 
