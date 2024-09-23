@@ -1,6 +1,13 @@
 # Exam – DAI (SoSe 2024)
 
 The project is "Market Reaction to Regulatory Announcements during the Brexit Period 2016 - 2020".
+
+## Project Contributors
+
+1. Bhanu Prasanna Koppolu
+2. Akash Shambhunath Kanojiya
+3. Shyam Gupta
+4. Santhosh Sakthivinayagam
  
 ## Setup Guide
 
